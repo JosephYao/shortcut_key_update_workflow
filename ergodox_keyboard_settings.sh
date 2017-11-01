@@ -8,3 +8,4 @@ osascript /Users/josephyao/Documents/personal_workspace/shortcut_key_update_work
 
 osascript /Users/josephyao/Documents/personal_workspace/shortcut_key_update_workflow/ergodox_input_source.scpt
 
+osascript /Users/josephyao/Documents/personal_workspace/shortcut_key_update_workflow/ergodox_switch_layout.scpt
