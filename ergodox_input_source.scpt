@@ -12,5 +12,5 @@ tell application "System Events"
   delay 1
   click menu item 1 of menu 1 of pop up button 2 of window 1 of application process "SogouPreference"
   delay 1
-  click UI Element 30 of window 1 of application process "SogouPreference"
+  click UI Element 32 of window 1 of application process "SogouPreference"
 end tell
