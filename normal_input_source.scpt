@@ -20,5 +20,5 @@ tell application "System Events"
   key code 125
   key code 124
   click menu item "Programmer Dvorak" of menu 1 of menu item 9 of menu 1 of pop up button 2 of window 1 of application process "SogouPreference"
-  click UI Element 30 of window 1 of application process "SogouPreference"
+  click UI Element 32 of window 1 of application process "SogouPreference"
 end tell
