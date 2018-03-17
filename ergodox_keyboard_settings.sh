@@ -2,7 +2,7 @@
 
 osascript /Users/josephyao/Documents/personal_workspace/shortcut_key_update_workflow/paste_before_click_record_field.scpt
 
-/usr/local/bin/cliclick c:888,288 kd:shift,cmd t:v ku:shift,cmd
+/usr/local/bin/cliclick c:888,288 kd:shift,alt t:v ku:shift,alt
 
 osascript /Users/josephyao/Documents/personal_workspace/shortcut_key_update_workflow/paste_after_click_record_field.scpt
 
