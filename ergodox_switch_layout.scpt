@@ -1,3 +1,6 @@
-tell application "System Events" to tell process "SystemUIServer"
-  tell (1st menu bar item of menu bar 1 whose description is "text input") to {click, click (menu 1's menu item "U.S.")}
-end tell
+tell application "System Events" to ¬
+    tell application process "TextInputMenuAgent" to ¬
+        tell menu bar item 1 of menu bar 2
+           click
+           click menu item "U.S." of menu 1
+        end tell
