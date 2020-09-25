@@ -14,7 +14,7 @@ tell application "System Events" to ¬
           click menu item "偏好设置" of menu 1
         end tell
 
-delay 3
+delay 10
 
 tell application "System Events"
   click UI Element 2 of tool bar 1 of window 1 of application process "SogouPreference"
